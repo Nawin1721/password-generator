@@ -125,12 +125,6 @@ This helps create stronger and more secure passwords.
 
 ---
 
-## Note 🏷️
- 
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01) 
-
-<b>Fork The Repo And Edit As Per Your Needs.</b>
-
 # ⭐ Future Improvements
 
 - Password strength meter
@@ -145,3 +139,10 @@ This helps create stronger and more secure passwords.
 # 📄 License
 
 This project is free to use for learning and educational purposes.
+
+
+## Note 🏷️
+ 
+[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01) 
+
+<b>Fork The Repo And Edit As Per Your Needs.</b>
