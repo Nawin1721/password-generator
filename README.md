@@ -143,6 +143,6 @@ This project is free to use for learning and educational purposes.
 
 ## Note 🏷️
  
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01) 
+[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Nawin7755) 
 
 <b>Fork The Repo And Edit As Per Your Needs.</b>
